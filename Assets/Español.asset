@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bfce8172db7cf14bb83a85e43f38bd5, type: 3}
+  m_Name: "Espa\xF1ol"
+  m_EditorClassIdentifier: 
+  texto1: Me llaman Plex, mami
+  texto2: "Ya te olvid\xE9, honey"
+  texto3: "T\xFA me dejaste y ahora estoy flexeando por Miami"
+  texto4: "To' los d\xEDas son party, montao' en un Ferrari"
